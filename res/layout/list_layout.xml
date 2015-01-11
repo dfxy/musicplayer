@@ -7,6 +7,9 @@ xmlns:android="http://schemas.android.com/apk/res/android"
 android:orientation="vertical"
 android:background="@drawable/bg"
 >
+
+
+
 <RelativeLayout android:id="@+id/control_panel"
         android:orientation="horizontal" 
         android:layout_width="fill_parent"
